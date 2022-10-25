@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 645e7acea5cba434494a072e7d6c64ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Floor_surface2_true: {fileID: 919132149155446097, guid: 04c17d5c969c0454eb55099013c73d6f, type: 3}
+  - Floor_surface3_true: {fileID: 919132149155446097, guid: 70d5f8199e41957458a984a4847a1420, type: 3}
+  - Floor_surface4_true: {fileID: 919132149155446097, guid: 981e64a47db162d40a5d10128659ff8e, type: 3}
+  - Floor_surface5_true: {fileID: 919132149155446097, guid: b9f2d8f61b7af28489713e717c488f0e, type: 3}
+  - Floor_surface6_true: {fileID: 919132149155446097, guid: bf822bec9c3c40348b7983e130619f39, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
